@@ -9,6 +9,10 @@
 
   [Solution](https://www.educative.io/m/sum-of-two-values)
 
+  ```javascript
+  
+  ```
+
   #### Move Zeros to the Left
   Move all zeros to the left of an array while maintaining its order.
 
@@ -22,10 +26,21 @@
 ## Linked Lists
 ------
 
-#### Problem
+#### Delete Node with Given Key
+You are given the head of a linked list and a key. You have to delete the node that contains this given key.
 
+[Solution](https://www.educative.io/m/delete-node-with-given-key)
 
-[Solution]()
+```javascript
+
+```
+
+#### Copy Linked List with Arbitrary Pointer
+You are given a linked list where the node has two pointers. The first is the regular ‘next’ pointer. The second pointer is called ‘arbitrary_pointer’ and it can point to any node in the linked list.
+
+Your job is to write code to make a deep copy of the given linked list. Here, deep copy means that any operations on the original list (inserting, modifying and removing) should not affect the copied list.
+
+[Solution](https://www.educative.io/m/copy-linked-list-with-arbitrary-pointer)
 
 ```javascript
 
@@ -35,10 +50,19 @@
 ## Trees
 ------
 
-#### Problem
+#### Mirror Binary Tree
+Given the root node of a binary tree, swap the 'left' and 'right' children for each node. 
 
+[Solution](https://www.educative.io/m/mirror-binary-tree-nodes)
 
-[Solution]()
+```javascript
+
+```
+
+#### Check if Two Binary Trees are Identical
+Given the roots of two binary trees, determine if these trees are identical or not.
+
+[Solution](https://www.educative.io/m/check-if-two-binary-trees-are-identical)
 
 ```javascript
 
@@ -48,23 +72,32 @@
 ## Strings
 ------
 
-#### Problem
+#### String Segmentation
+Given a dictionary of words and an input string tell whether the input string can be completely segmented into dictionary words.
 
+[Solution](https://www.educative.io/m/string-segmentation)
 
-[Solution]()
+```javascript
+
+```
+
+#### Find All Palindrome Substrings
+Given a string find all non-single letter substrings that are palindromes.
+
+[Solution](https://www.educative.io/m/find-all-palindrome-substrings)
 
 ```javascript
 
 ```
 
 
-------
 ## Dynamic Programming
+------
 
-#### Problem
+#### Largest Sum Subarray
+Given an array, find the contiguous subarray with the largest sum.
 
-
-[Solution]()
+[Solution](https://www.educative.io/m/largest-sum-subarray)
 
 ```javascript
 
@@ -74,10 +107,10 @@
 ## Math and Stats
 ------
 
-#### Problem
+#### Determine if the Number is Valid
+Given an input string, determine if it makes a valid number or not. For simplicity, assume that white spaces are not present in the input.
 
-
-[Solution]()
+[Solution](https://www.educative.io/m/is-the-number-valid)
 
 ```javascript
 
@@ -87,10 +120,10 @@
 ## Backtracking
 ------
 
-#### Problem
+#### Print Balanced Brace Combinations
+Print all braces combinations for a given value 'N' so that they are balanced.
 
-
-[Solution]()
+[Solution](https://www.educative.io/m/all-possible-braces)
 
 ```javascript
 
@@ -100,10 +133,10 @@
 ## Graphs
 ------
 
-#### Problem
+#### Minimum Spanning Tree
+Find the minimum spanning tree of a connected, undirected graph with weighted edges.
 
-
-[Solution]()
+[Solution](https://www.educative.io/m/minimum-spanning-tree)
 
 ```javascript
 
@@ -113,10 +146,10 @@
 ## Design
 ------
 
-#### Problem
+#### Implement a LRU Cache
+Least Recently Used (LRU) is a common caching strategy. It defines the policy to evict elements from the cache to make room for new elements when the cache is full, meaning it discards the least recently used items first.
 
-
-[Solution]()
+[Solution](https://www.educative.io/m/implement-least-recently-used-cache)
 
 ```javascript
 
@@ -126,10 +159,19 @@
 ## Sorting and Designing
 ------
 
-#### Problem
+#### Find the High and Low Index
+Given a sorted array of integers, return the low and high index of the given key. Return -1 if not found. The array length can be in the millions with many duplicates.
 
+[Solution](https://www.educative.io/m/find-low-high-index)
 
-[Solution]()
+```javascript
+
+```
+
+#### Merge Overlapping Intervals
+You are given an array (list) of interval pairs as input where each interval has a start and end timestamp. The input array is sorted by starting timestamps. You are required to merge overlapping intervals and return output array (list).
+
+[Solution](https://www.educative.io/m/merge-overlapping-intervals)
 
 ```javascript
 

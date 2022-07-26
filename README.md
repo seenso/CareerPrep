@@ -1,6 +1,6 @@
 # Company Prep
 
-- Questions should be studies along w Grokking.
+- Questions should be studied along w Grokking.
 - Write the solution 10 times; if don't understand write it some more
 
 #### Create new repo on cmd line
